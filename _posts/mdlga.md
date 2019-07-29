@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Let's make Dong Lao Great Again"
 ---
 
